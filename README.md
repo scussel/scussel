@@ -28,4 +28,4 @@ TypeScript | Node.js | Python | Docker | GitHub API
 ---
 
 ## 📊 Painel de autoestima
-![pacman contribution graph](https://raw.githubusercontent.com/scussel/scussel/output/pacman-contribution-graph.svg)
+![pacman contribution graph](https://raw.githubusercontent.com/scussel/scussel/output/pacman-contribution-graph-dark.svg)
