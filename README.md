@@ -1,11 +1,31 @@
-### Hello! welcome :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+# 👋 William Scussel
 
-<div>
-  <a href="http://www.github.com/scussel"><img width="420px" src="https://github-readme-stats.vercel.app/api?username=scussel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="scussel's GitHub stats" /></a>
+🚀 Transformo trabalho manual em automação.  
+📉 Transformo bugs em histórias traumáticas.
 
-  <a href="http://www.github.com/scussel"><img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=scussel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
+---
 
-![Snake animation](https://github.com/scussel/scussel/blob/output/github-contribution-grid-snake.svg)
+## 🧩 O que eu faço
+- Bots que trabalham por mim (e às vezes contra mim)
+- APIs e integrações
+- Relatórios automáticos no GitHub
+- Ferramentas internas
 
-![](https://komarev.com/ghpvc/?username=scussel&color=red&style=flat)
+---
+
+## 💀 Coisas que eu já enfrentei
+- GitHub Projects v2
+- Webhooks
+- Rate limit
+- Documentação mentirosa
+- JSON
+
+---
+
+## 🧰 Stack
+TypeScript | Node.js | Python | Docker | GitHub API
+
+---
+
+## 📊 Painel de autoestima
+![pacman contribution graph](https://raw.githubusercontent.com/scussel/scussel/output/pacman-contribution-graph.svg)
